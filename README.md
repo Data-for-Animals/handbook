@@ -1,6 +1,6 @@
 # **Data for Animals: Mission Model**
 
-Based on [Nonprofit Business Model Canvas](./nonprofit-business-model-canvas.pdf)
+Based on [Nonprofit Business Model Canvas](./assets/nonprofit-business-model-canvas.pdf)
 
 **Table of Contents**
 
