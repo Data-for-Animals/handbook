@@ -49,6 +49,7 @@ Data for Animals aims to the improve the **accessibility** and **utilization** o
 Data for Animals envisions a world free of animal suffering, where accessible and actionable data acts as a major catalyst for collective impact and transformative change.
 
 ## **Theory of Change** {#theory-of-change}
+[Theory of Change](./assets/theory-of-change.drawio)
 
 ## **Impact Measurement** {#impact-measurement}
 
