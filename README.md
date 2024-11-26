@@ -1,6 +1,6 @@
 # **Data for Animals: Mission Model**
 
-Based on [Nonprofit Business Model Canvas](https://www.hfpgnonprofitsupportprogram.org/download_file/view/287/198)
+Based on [Nonprofit Business Model Canvas](./nonprofit-business-model-canvas.pdf)
 
 **Table of Contents**
 
